@@ -1,0 +1,8 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'WearForge - Open Source apps for your smartwatch'
+
+theme = 'paper'
+
+[params]
+    github = 'WearForge'
